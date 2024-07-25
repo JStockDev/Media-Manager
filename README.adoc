@@ -1,0 +1,12 @@
+= Media Manager
+
+Woah finished a project for once, mental
+
+Reworked from the original project media_interface, this one functions properly without leaking memory!!!
+
+Designed to allow for media playback viewing and control from a mobile device, because those macro keys on the keyboard are terrible.
+
+Comes with insane features including:
+
+* Native Android app which still sometimes panics
+* Windows server app which doesn't panic OR leak memory!
